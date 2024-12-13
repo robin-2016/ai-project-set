@@ -36,7 +36,7 @@ DB-GPT：使用 AWEL（代理工作流表达式语言）和代理的 AI 原生�
 
 Director：用于下一代视频交互和工作流程的 AI 视频代理框架。https://github.com/video-db/director/
 
-Scrapegraph-ai**：**基于 AI 的 Python 爬虫。https://github.com/ScrapeGraphAI/Scrapegraph-ai
+Scrapegraph-ai：基于 AI 的 Python 爬虫。https://github.com/ScrapeGraphAI/Scrapegraph-ai
 
 SWE-agent 接受 GitHub 问题并尝试使用 GPT-4 或您选择的 LM 自动修复它。它还可以用于进攻性网络安全或竞争性编码挑战。https://github.com/SWE-agent/SWE-agent
 
@@ -64,7 +64,7 @@ RLtools：最快的深度强化学习库。https://github.com/rl-tools/rl-tools
 
 Argilla 是 AI 工程师和领域专家构建高质量数据集的协作工具，为您的 AI 模型构建高质量的数据集。https://github.com/argilla-io/argilla
 
-awesome-llm-apps**：**使用 OpenAI、Anthropic、Gemini 和开源模型<带有 RAG 的超棒 code id=g1001>LLM 应用程序集合。https://github.com/Shubhamsaboo/awesome-llm-apps
+awesome-llm-apps：使用 OpenAI、Anthropic、Gemini 和开源模型<带有 RAG 的超棒 code id=g1001>LLM 应用程序集合。https://github.com/Shubhamsaboo/awesome-llm-apps
 
 onyx：团队的 Gen-AI 聊天 - 如果 ChatGPT 可以访问您团队的独特知识，请考虑它。https://github.com/onyx-dot-app/onyx
 
