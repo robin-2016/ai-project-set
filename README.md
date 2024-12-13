@@ -86,4 +86,4 @@ ichigo：本地实时语音 AI。https://github.com/janhq/ichigo
 
 cofounder：AI 生成的应用程序、全栈 + 生成式 UI。https://github.com/raidendotai/cofounder
 
-微软面向初学者的生成式 AI课程**：**https://github.com/microsoft/generative-ai-for-beginners
+微软面向初学者的生成式 AI课程：https://github.com/microsoft/generative-ai-for-beginners
